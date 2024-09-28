@@ -1,0 +1,259 @@
+body{
+    background-color: beige;
+   }
+ .a{
+display: flex;
+background-color: black;
+color: white;
+}
+.b{
+padding-right: 20px;
+}
+.c{
+margin-top: 25px;
+border-radius: 10px;
+padding-right: 480px;
+padding-bottom: 8px;
+padding-top: 8px;
+font-size: large;
+padding-left: 10px;
+}
+.d{
+font-size: large;
+color: white;
+margin-top: 25px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 5px;
+margin-right:10px ;
+padding-bottom: 0%;
+margin-left: 0%;
+margin-right: 10px;
+width: 100px;
+height: 50px;
+}
+.e{
+    margin-top: 35px;
+    margin-left: 20px;
+    font-style: italic;
+
+}
+.f{
+    margin-top: 26px;
+    margin-left: 10px;
+    width: 120px;
+    height: 47px;
+    
+}
+.g{
+    margin-top: 26px;
+    margin-left: 15px;
+    width: 70px;
+    height: 47px;
+}
+.k{
+     font-size:30px;
+     margin-top: 22px;
+     
+}
+.h{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.d:hover{
+border: solid white;
+border-radius: 10px;
+}
+.g:hover{
+border: solid white;
+border-radius: 10px;
+}
+.f:hover{
+border:solid white;
+border-radius: 10px;
+}
+.h:hover{
+border: solid black;
+}
+
+button{
+    width: 40px;
+    height:35px;
+}
+nav ul li{
+display: inline;
+font-size:20px;
+margin: 10px;
+}
+nav ul li:hover{
+    background-color:black;
+    color: white;
+}
+.k{
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 0%;
+    
+}
+.k img{
+    width: 250px;
+    height: 250px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.k1{
+margin: 5px;
+border: 2px solid white;
+width: 340px;
+height: 320px;
+color: black;
+background-color: white;
+border-radius: 10px;
+padding: 5px;
+}
+.k2{
+margin: 5px;
+border: 2px solid white;
+width: 340px;
+padding: 5px;
+height: 320px;
+color: black;
+background-color: white;
+border-radius: 10px;
+}
+.k3{
+margin: 5px;
+border: 2px solid white;
+width: 340px;
+padding: 5px;
+border-radius: 10px;
+height: 320px;
+color: black;
+background-color: white;
+
+}
+.k3 img{
+width: 120px;
+height: 120px;
+padding-left: 10px;
+padding-top: 15px;
+}
+.k4{
+margin: 5px;
+padding: 5px;
+border: 2px solid white;
+width: 340px;
+height: 320px;
+border-radius: 10px;
+color: black;
+background-color: white;
+}
+.kk{
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+    
+}
+.k1:hover{
+  transform:scale(1.1);
+}
+.kk img{
+    width: 250px;
+    height: 250px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.kk1{
+margin: 5px;
+border: 2px solid white;
+width: 340px;
+padding: 5px;
+border-radius: 10px;
+height: 320px;
+color: black;
+background-color: white;
+
+}
+.kk1 img{
+width: 120px;
+height: 120px;
+padding-left: 10px;
+padding-top: 15px;
+}
+.kk4{
+margin: 5px;
+border: 2px solid white;                                                                                                                                                                                                                                                                    
+width: 340px;
+padding: 5px;
+border-radius: 10px;
+height: 320px;
+color: black;
+background-color: white;
+
+}
+.kk4 img{
+width: 120px;
+height: 120px;
+padding-left: 10px;
+padding-top: 15px;
+}
+.kk2{
+margin: 5px;
+padding: 5px;
+border: 2px solid white;
+width: 340px;
+height: 320px;
+border-radius: 10px;
+color: black;
+background-color: white;
+}
+.kk3{
+margin: 5px;
+padding: 5px;
+border: 2px solid white;
+width: 340px;
+height: 320px;
+border-radius: 10px;
+color: black;
+background-color: white;
+}
+.j2{
+padding: 10px;
+display: flex;
+margin: 5px;
+padding: 5px;
+}
+.j2{
+width: 200px;
+height: 200px;
+}
+.j1{
+background-color: white;
+margin-bottom: 10px;
+
+}
+.j3{
+font-size: 25px;
+font-weight: bold;
+padding-top: 10px;
+}
+.jk1{
+width: 1170px;
+height: 200px;
+background-color: darkslategray;
+margin-left: 7px;
+color: white;
+padding: auto;
+padding-left: 330px;
+padding-top: 20px;
+display: flex;
+}
+.jk{
+background-color: orange;
+padding: 7px;
+border-radius: 5px;
+}
